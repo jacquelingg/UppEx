@@ -1,0 +1,10 @@
+C:\Users\bodega\Documents\Visual Studio 2017\Projects\UppEx\UppEx\bin\Debug\UppEx.exe.config
+C:\Users\bodega\Documents\Visual Studio 2017\Projects\UppEx\UppEx\bin\Debug\UppEx.exe
+C:\Users\bodega\Documents\Visual Studio 2017\Projects\UppEx\UppEx\bin\Debug\UppEx.pdb
+C:\Users\bodega\Documents\Visual Studio 2017\Projects\UppEx\UppEx\obj\Debug\UppEx.csprojResolveAssemblyReference.cache
+C:\Users\bodega\Documents\Visual Studio 2017\Projects\UppEx\UppEx\obj\Debug\UppEx.Properties.Resources.resources
+C:\Users\bodega\Documents\Visual Studio 2017\Projects\UppEx\UppEx\obj\Debug\UppEx.csproj.GenerateResource.Cache
+C:\Users\bodega\Documents\Visual Studio 2017\Projects\UppEx\UppEx\obj\Debug\UppEx.exe
+C:\Users\bodega\Documents\Visual Studio 2017\Projects\UppEx\UppEx\obj\Debug\UppEx.pdb
+C:\Users\bodega\Documents\Visual Studio 2017\Projects\UppEx\UppEx\obj\Debug\UppEx.UppEx.resources
+C:\Users\bodega\Documents\Visual Studio 2017\Projects\UppEx\UppEx\obj\Debug\UppEx.Carga.resources
